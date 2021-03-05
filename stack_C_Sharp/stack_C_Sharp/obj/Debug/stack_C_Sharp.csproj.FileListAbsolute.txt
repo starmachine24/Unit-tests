@@ -1,0 +1,7 @@
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Debug\stack_C_Sharp.exe.config
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Debug\stack_C_Sharp.exe
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Debug\stack_C_Sharp.pdb
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Debug\stack_C_Sharp.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Debug\stack_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Debug\stack_C_Sharp.exe
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Debug\stack_C_Sharp.pdb

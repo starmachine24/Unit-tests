@@ -1,0 +1,6 @@
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Release\stack_C_Sharp.exe.config
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Release\stack_C_Sharp.exe
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\bin\Release\stack_C_Sharp.pdb
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Release\stack_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Release\stack_C_Sharp.exe
+C:\Users\Charlie\source\repos\stack_C_Sharp\stack_C_Sharp\obj\Release\stack_C_Sharp.pdb

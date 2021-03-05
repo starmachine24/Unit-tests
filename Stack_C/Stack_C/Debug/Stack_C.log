@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Charlie\source\repos\Stack_C\Stack_C\main.c(50,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Charlie\source\repos\Stack_C\Stack_C\main.c(50,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Charlie\source\repos\Stack_C\Stack_C\main.c(50,12): message : the missing variadic argument 2 is required by format string '%[^\n]'
+C:\Users\Charlie\source\repos\Stack_C\Stack_C\main.c(50,12): message : this argument is used as a buffer size
+  Stack_C.vcxproj -> C:\Users\Charlie\source\repos\Stack_C\Debug\Stack_C.exe
